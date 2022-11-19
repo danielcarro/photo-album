@@ -1,4 +1,4 @@
-## Photo album
+# Photo album
 
 Modern, simple and functional photo album
 
@@ -8,9 +8,6 @@ This project was created with Vite + ReactJS + Typescript
 
 [See Project working](https://album.dcdev.site)
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
